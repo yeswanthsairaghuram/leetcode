@@ -1,6 +1,9 @@
 class Solution {
     public boolean isSameAfterReversals(int num) {
         int n=num;
+        if(n==0){
+            return true;
+        }
         int ans=reverse(num);
         int a=reverse(ans);
         if(a==n){
