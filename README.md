@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0013-roman-to-integer) |
+| [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 | [2083-three-divisors](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0118-pascals-triangle) |
 | [0624-maximum-distance-in-arrays](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 | [1791-richest-customer-wealth](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0118-pascals-triangle) |
+| [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
