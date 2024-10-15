@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3195-separate-black-and-white-balls](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1448-maximum-69-number](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3195-separate-black-and-white-balls](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
