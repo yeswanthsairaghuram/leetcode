@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0217-contains-duplicate) |
 | [0624-maximum-distance-in-arrays](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0217-contains-duplicate) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
