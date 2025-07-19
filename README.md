@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0412-fizz-buzz) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
