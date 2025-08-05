@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0415-add-strings) |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0228-summary-ranges) |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 | [0909-stone-game](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0217-contains-duplicate) |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0561-array-partition) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting Sort
 |  |
@@ -317,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/yeswanthsairaghuram/https-github.com-yeswanthsairaghuram-LeetCode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
